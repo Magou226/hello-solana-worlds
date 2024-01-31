@@ -1,0 +1,1 @@
+This is a test repo for the solang solidity for solana development course By Solomon Foskay 
